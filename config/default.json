@@ -1,0 +1,6 @@
+{
+	"jwtPrivateKey": "unsecureKey",
+	"db": "mongodb://localhost/marvel",
+	"port": "3900",
+	"requiresAuth": true
+}
