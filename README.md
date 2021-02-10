@@ -6,4 +6,4 @@ Frontend code for this application can be found at:
 ### https://github.com/bjacks10/MarvelMania 
 
 Full application can be found at: 
-### https://marvelmania.herokuapp.com/
+### https://marvelmania.herokuapp.com
